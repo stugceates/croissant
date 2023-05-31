@@ -1,3 +1,19 @@
 body{
+    text-align: center;
     background-color: bisque;
+}
+
+h1{
+    
+    font-size: 48px;
+}
+
+.navigate-links {
+    padding: 20px;
+    color: green;
+}
+
+.croissant-photo {
+    margin: 30px auto;
+    border-radius: 10px;
 }
